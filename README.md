@@ -8,11 +8,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://drive.google.com/file/d/19pVXy6wIzzEe00QPkRTSz3vKczqYydZ_/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1CG8xQfaJY-36WCfylYlFZIyhrhrdycVQ/view?usp=sharing">
     <img src="https://play-lh.googleusercontent.com/mB3X6D06jTwhgnTMuIyTB0kmzbLfpwoPHa8marvTI0jpHl5BgsxVnCSkbAYQ31Wf0w" alt="Logo" width="200" height="200">
   </a>
 
-  <a href="https://drive.google.com/file/d/19pVXy6wIzzEe00QPkRTSz3vKczqYydZ_/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1CG8xQfaJY-36WCfylYlFZIyhrhrdycVQ/view?usp=sharing">
       <h3 align="center">Trivia</h3>
 
   </a>
